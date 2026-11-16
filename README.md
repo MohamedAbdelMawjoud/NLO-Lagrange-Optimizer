@@ -1,4 +1,4 @@
-# Nonlinear Optimization (NLO) — Assignment 2
+# Nonlinear Optimization (NLO)
 
 ## Equality-Constrained Optimization Using Lagrange Multipliers
 
